@@ -1,7 +1,7 @@
 {
 "name": "Google Pool",
-"description": "Google Pool",
-"ticker": "GOOGLE",
+"description": "Google Pool 1",
+"ticker": "GOOG1",
 "homepage": "https://google.com",
 "extended": "https://raw.githubusercontent.com/lucask266/cardano/main/poolMetaDataExtended.json"
 }
