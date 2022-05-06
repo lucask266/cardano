@@ -1,1 +1,39 @@
-
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/lucask266/cardano/main/google64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/lucask266/cardano/main/google.png",
+        "location": "Mountain View, CA",
+        "social": {
+            "twitter_handle": "google",
+            "telegram_handle": "",
+            "facebook_handle": "Google",
+            "youtube_handle": "user/Google",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "google"
+        },
+        "company": {
+            "name": "Google LLC",
+            "addr": "1600 Amphitheatre Parkway Mountain View, CA 94043",
+            "city": "Mountain View",
+            "country": "United States",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Do the right thing; don�t be evil. Honesty and integrity in all we do. Our business practices are beyond reproach. We make money by doing good things",
+            "server": "about.google",
+            "company": "Google LLC"
+        }
+    },
+    "my-pool-ids": {
+        "0": "c513a2368930c45f3ffcabf555845b12d61e9b15c41ab1ecfc11cd16"
+    },
+    "telegram-admin-handle": {
+        "0": "",
+		"1": ""
+    },
+	"adapools_ext": {
+} 
+	
+}
